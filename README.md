@@ -1,2 +1,0 @@
-# LSDE-Coursework
-LSDE coursework
