@@ -1,0 +1,12 @@
+Stop EC2 instances that are required
+Termitate unrequired EC2 instances
+
+Terminate EMR clusters
+
+Delete large temporary files in S3 bucket
+
+Beware:
+ - RDS service database clusters
+ - NAT gateways to VPCs
+ - VPC endpoints
+ 
