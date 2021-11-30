@@ -1,0 +1,21 @@
+Write in response to: "The public cloud is ideal for data processing"
+
+data processing is:
+- Processing ability (compute and manipulate data)
+- Storiage ability (ability to store data)
+- Transfer ability (ability to import/export data to/from other systems)
+
+Focus on big data processing?
+
+Features or services examples
+- S3 is a service
+- Availability zone is a featire
+
+Need to explain *why* a service or feature is important for processing
+
+audience: uni students who have not studied cloud computing
+- intelligent and understands basic computing, but wants a quick rundown to tell them why
+
+More of an elevator pitch about data processing
+What's good and why you should use cloud comptuing to help out
+But what's not so good
